@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/jacobdmn/MyStats/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    

@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/jacobdmn/MyStats/master/profile-summary-card-output/darcula/4-productive-time.svg)
-```
-
-    
